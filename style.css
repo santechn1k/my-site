@@ -39,11 +39,15 @@ body {
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
+  background-repeat: no-repeat;
+  background-position: left;
 }
 
 .header-phone {
-  padding-left: 25px;
+  padding-left: 30px;
   background-image: url("img/icon-phone-header.svg");
+  background-repeat: no-repeat;
+  background-position: left;
 }
 
 .hero-image {
@@ -112,10 +116,12 @@ body {
 
 .skill-html {
   background-image: url("img/icon-html.svg");
+  background-repeat: no-repeat;
 }
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+  background-repeat: no-repeat;
 }
 
 .level {
@@ -186,9 +192,13 @@ body {
 .footer-email {
   padding-left: 30px;
   background-image: url("img/icon-email-footer.svg");
+  background-repeat: no-repeat;
+  background-position: left;
 }
 
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+  background-repeat: no-repeat;
+  background-position: left;
 }
